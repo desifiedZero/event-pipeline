@@ -1,1 +1,1 @@
-# pubsub
+# not a pubsub anymore
